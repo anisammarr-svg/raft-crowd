@@ -2,7 +2,7 @@
 
 A reproducible starting implementation for motion-based video anomaly analysis using frozen RAFT optical flow, motion segmentation and Crowd Flow Instability (CFI) cues.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anisammarr-svg/raft-crowd/blob/main/output/jupyter-notebook/RAFTCrowdFlow_from_scratch.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anisammarr-svg/raft-crowd/blob/62b039423487e7e0bd15d99d62339536cce6da48/output/jupyter-notebook/RAFTCrowdFlow_from_scratch.ipynb)
 
 **Status:** 115 synthetic CPU tests passed locally. Pretrained RAFT/GPU inference and real-dataset performance have not been validated. This implementation does not reproduce historical paper scores or establish crowd-crush prediction, physical pressure, early warning or real-time deployment.
 
