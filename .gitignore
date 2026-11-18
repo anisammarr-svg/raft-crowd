@@ -1,0 +1,27 @@
+# Local environments and runtime data
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+data/
+results/
+checkpoints/
+raftcrowd_start/
+tmp/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.mp4
+*.avi
+*.mov
+*.zip
+*.log
+.DS_Store
+Thumbs.db

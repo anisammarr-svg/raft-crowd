@@ -1,0 +1,4 @@
+id,split,group,frames,labels,density
+train001,train,source_train,../data/raftcrowd/train001,,
+val001,val,source_val,../data/raftcrowd/val001,../data/raftcrowd/val001_labels.npy,
+test001,test,source_test,../data/raftcrowd/test001,../data/raftcrowd/test001_labels.npy,

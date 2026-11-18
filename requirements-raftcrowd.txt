@@ -1,0 +1,7 @@
+# Install torch and torchvision as a compatible pair for your CUDA runtime first.
+# The broad bounds below are compatibility declarations, not a frozen environment.
+# Each extraction records actual versions; freeze a tested environment before experiments.
+numpy>=2.0,<3
+opencv-python-headless>=4.8,<6
+torch>=2.2,<3
+torchvision>=0.17,<1

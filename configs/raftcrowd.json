@@ -1,0 +1,19 @@
+{
+  "seed": 7,
+  "height": 360,
+  "width": 640,
+  "weights": "C_T_V1",
+  "updates": 12,
+  "device": "cuda",
+  "mixed_precision": false,
+  "smooth_sigma": 1.0,
+  "clusters": 4,
+  "min_motion": 0.5,
+  "kmeans_iterations": 20,
+  "kmeans_samples": 4096,
+  "density_mode": "none",
+  "top_fraction": 0.01,
+  "normalization_quantile": 0.99,
+  "normalization_samples_per_frame": 128,
+  "normalization_max_samples": 50000
+}
